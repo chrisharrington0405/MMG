@@ -1,0 +1,29 @@
+{
+  "name": "moneymasterguide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisharrington0405/MMG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisharrington0405/MMG/issues"
+  },
+  "homepage": "https://github.com/chrisharrington0405/MMG#readme",
+  "description": "",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
